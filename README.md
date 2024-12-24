@@ -8,3 +8,6 @@ I chose to develop this app for Android first because:
 
 You are allowed to see the insides of this app, but not to copy it. Inside it there are the licenses for all of the assets used (i think)
 the main app's license is located here, and not inside it.
+
+This app is to be considered open-sourced content. But i couldn't upload the main files and folder for fear to ruin everything.
+to see the insides of it, just download the apk file and rename it to something that finishes with .zip, then unpack it.
