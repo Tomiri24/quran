@@ -1,0 +1,6 @@
+VERSION 1.0.1
+  - Added Font Size control from the side drawer menu
+  - Added Dubai Font and it's correspondent license in the License page
+  - Added an About Page
+  - Added Sura info (if it's either Medinan or Meccan, Sura index, amount of Ayas in the Sura)
+  - Added a font chooser material dialog
